@@ -1,6 +1,6 @@
 {
   "name": "cmdntrf-swap_file",
-  "version": "5.0.0-rc.1",
+  "version": "5.0.0",
   "author": "Peter Souter",
   "summary": "Create swap files for Linux systems with Puppet",
   "license": "Apache-2.0",
