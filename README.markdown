@@ -1,9 +1,6 @@
 # swap_file
 
-[![Puppet
-Forge](http://img.shields.io/puppetforge/v/petems/swap_file.svg)](https://forge.puppetlabs.com/petems/swap_file) [![Build Status](https://travis-ci.org/petems/petems-swap_file.svg?branch=master)](https://travis-ci.org/petems/petems-swap_file) [![Puppet Forge
-Downloads](http://img.shields.io/puppetforge/dt/petems/swap_file.svg)](https://forge.puppetlabs.com/petems/swap_file) [![Puppet Forge
-Endorsement](https://img.shields.io/puppetforge/e/petems/swap_file.svg)](https://forge.puppetlabs.com/petems/swap_file)
+Temporary fork of [petems-swap_file](https://github.com/petems/petems-swap_file) while waiting for fix of [issue 93](https://github.com/petems/petems-swap_file/issues/93). This fork includes [Steve Traylen](https://github.com/traylenator) commits proposed in issue [PR #95](https://github.com/petems/petems-swap_file/pull/95).
 
 #### Table of Contents
 
