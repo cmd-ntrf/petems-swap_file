@@ -1,5 +1,5 @@
 {
-  "name": "petems-swap_file",
+  "name": "cmdntrf-swap_file",
   "version": "5.0.0-rc.1",
   "author": "Peter Souter",
   "summary": "Create swap files for Linux systems with Puppet",
